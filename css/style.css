@@ -8,9 +8,20 @@
 
 .button {
     font-size: 16px;
-    font-family:"メイリオ",'serif' ;
-    }
+    font-family: "メイリオ", "serif";
+    border: 1px solid #000;
+    border-radius: 100vh;
+    background-color: #fff;
+    color: black;
+    text-decoration: none;
+    padding: 5px 30px 5px 30px;
+
+        }
 
 .button:hover {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+
 
 }
