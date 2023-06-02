@@ -1,0 +1,16 @@
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.button {
+    font-size: 16px;
+    font-family:"メイリオ",'serif' ;
+    }
+
+.button:hover {
+
+}
