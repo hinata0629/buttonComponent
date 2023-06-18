@@ -15,6 +15,7 @@
     color: black;
     text-decoration: none;
     padding: 5px 30px 5px 30px;
+    transition: 0.3s;
 
         }
 
@@ -22,6 +23,5 @@
     color: white;
     background-color: black;
     text-decoration: none;
-
 
 }
